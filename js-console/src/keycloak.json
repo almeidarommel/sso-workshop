@@ -1,6 +1,6 @@
 {
-  "realm": "lab-leo",
-  "auth-server-url": "https://keycloak-rhsso.apps-crc.testing/auth/",
+  "realm": "demo-sso-realm",
+  "auth-server-url": "https://keycloak-demo-sso.apps.cluster-scrv4.scrv4.sandbox1398.opentlc.com/auth/",
   "ssl-required": "external",
   "resource": "js-console",
   "public-client": true,
