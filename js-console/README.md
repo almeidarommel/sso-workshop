@@ -1,4 +1,4 @@
-##### Running on Openshift with oc login and the same project
+## Running on Openshift with oc login and the same project
 
 1) Building app js-console on src directory using s2i:
 ```shell 
